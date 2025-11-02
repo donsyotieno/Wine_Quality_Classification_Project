@@ -8,6 +8,7 @@ There is a need to identify the most effective supervised machine learning model
 
 **3. Objectives**
 **Main Objective:**
+
 To evaluate and optimize the performance of supervised machine learning models for wine quality classification.
 **Specific Objectives:**
 
