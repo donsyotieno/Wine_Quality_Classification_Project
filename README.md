@@ -5,7 +5,7 @@
 This project, developed as part of the Master’s in Artificial Intelligence module coursework under the Machine Learning unit, focuses on the performance evaluation and optimization of supervised learning models for wine quality classification. Using the Wine Quality dataset, four algorithms — Logistic Regression, Random Forest, Support Vector Machine (SVM), and K-Nearest Neighbors (KNN) were implemented, tuned, and compared based on key performance metrics including accuracy, precision, recall, F1-score, and ROC-AUC. The results demonstrated that the Random Forest Classifier achieved the highest overall performance, effectively capturing complex, nonlinear relationships within the dataset. The project highlights the importance of model selection, parameter tuning, and performance interpretation in real-world applications of machine learning for decision automation and quality assessment.
 
 **1. Introduction:**
-Wine quality assessment is a crucial process in the wine industry, influencing both market value and consumer satisfaction. Traditional sensory evaluations are subjective and time-consuming. Machine learning provides a data-driven approach to efficiently predict wine quality. This study evaluates and optimizes supervised learning models — Logistic Regression, Random Forest, Support Vector Machine (SVM), and K-Nearest Neighbors (KNN) — to classify wine quality based on physicochemical properties.
+Wine quality assessment is a crucial process in the wine industry, influencing both market value and consumer satisfaction. Traditional sensory evaluations are subjective and time-consuming. Machine learning provides a data-driven approach to efficiently predict wine quality. This study evaluates and optimizes supervised learning models, including Logistic Regression, Random Forest, Support Vector Machine (SVM), and K-Nearest Neighbors (KNN), to classify wine quality based on physicochemical properties.
 
 **2. Problem Statement:**
 There is a need to identify the most effective supervised machine learning model for predicting wine quality with high accuracy and reliability. Despite numerous algorithms available, their comparative performance and optimal tuning for this dataset remain unclear.
@@ -78,7 +78,7 @@ To evaluate and optimize the performance of supervised machine learning models f
 
        -Accuracy (0.9258) — the best among all models.
    
-       -F1-Score (0.7018) — indicates strong balance between precision and recall.
+       -F1-Score (0.7018) — indicates a strong balance between precision and recall.
    
        -ROC-AUC (0.9111) — reflects excellent ability to distinguish between high and low-quality wines.
    
@@ -86,7 +86,7 @@ This implies that the Random Forest algorithm can effectively capture nonlinear 
 
 •	**SVM (Support Vector Machine)** came second overall:
 
-      -It recorded slightly lower accuracy (0.9170) and F1-score (0.6415), but still strong performance.
+      -It recorded slightly lower accuracy (0.9170) and F1-score (0.6415), but still a strong performance.
       
       -The SVM is generally robust for small to medium-sized datasets and works well with scaled data, which supports this result.
       
