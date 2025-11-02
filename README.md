@@ -23,7 +23,6 @@ To evaluate and optimize the performance of supervised machine learning models f
 **4. Methodology**
    
 **Step 1: Data preprocessing**
-
 •	Handle missing values (if any).
 •	Normalize or scale features.
 •	Encode the target variable (if categorical).
