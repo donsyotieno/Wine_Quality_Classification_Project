@@ -42,7 +42,7 @@ To evaluate and optimize the performance of supervised machine learning models f
 •	Rank models based on performance.
 •	Discuss trade-offs (e.g., interpretability vs accuracy).
 
-**6. Expected Outcomes**
+**5. Expected Outcomes**
 •	A clear identification of the best model for wine quality prediction.
 •	Insight into which features influence model performance.
 •	Recommendations for practical applications in wine quality assessment.
