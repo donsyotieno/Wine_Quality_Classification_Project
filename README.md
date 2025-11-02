@@ -14,11 +14,11 @@ To evaluate and optimize the performance of supervised machine learning models f
 
 **Specific Objectives:**
 
-   1.	To preprocess and explore the Wine Quality dataset.
-   2.	To train Logistic Regression, Random Forest, SVM, and KNN classifiers.
-   3.	To optimize each model using hyperparameter tuning (e.g., GridSearchCV).
-   4.	To evaluate model performance using accuracy, precision, recall, F1-score, and ROC-AUC.
-   5.	To identify the best-performing model for wine quality classification.
+      1.	To preprocess and explore the Wine Quality dataset.
+      2.	To train Logistic Regression, Random Forest, SVM, and KNN classifiers.
+      3.	To optimize each model using hyperparameter tuning (e.g., GridSearchCV).
+      4.	To evaluate model performance using accuracy, precision, recall, F1-score, and ROC-AUC.
+      5.	To identify the best-performing model for wine quality classification.
 
 **4. Methodology**
    
@@ -32,33 +32,33 @@ To evaluate and optimize the performance of supervised machine learning models f
 
 **Step 2: Model training**
 
-   •	Split dataset (e.g., 80% train, 20% test).
-   
-   •	Train Logistic Regression, Random Forest, SVM, and KNN.
+      •	Split dataset (e.g., 80% train, 20% test).
+      
+      •	Train Logistic Regression, Random Forest, SVM, and KNN.
 
 **Step 3: Model optimization**
 
-   •	Perform hyperparameter tuning using GridSearchCV or RandomizedSearchCV.
+      •	Perform hyperparameter tuning using GridSearchCV or RandomizedSearchCV.
 
 **Step 4: Model evaluation**
 
-   •	Compute Accuracy, Precision, Recall, F1-score, and ROC-AUC for each model.
-   
-   •	Visualize results using confusion matrices and ROC curves.
+      •	Compute Accuracy, Precision, Recall, F1-score, and ROC-AUC for each model.
+      
+      •	Visualize results using confusion matrices and ROC curves.
 
 **Step 5: Comparative analysis**
 
-   •	Rank models based on performance.
-   
-   •	Discuss trade-offs (e.g., interpretability vs accuracy).
+      •	Rank models based on performance.
+      
+      •	Discuss trade-offs (e.g., interpretability vs accuracy).
 
 **5. Expected Outcomes**
 
-   •	A clear identification of the best model for wine quality prediction.
-   
-   •	Insight into which features influence model performance.
-   
-   •	Recommendations for practical applications in wine quality assessment.
+      •	A clear identification of the best model for wine quality prediction.
+      
+      •	Insight into which features influence model performance.
+      
+      •	Recommendations for practical applications in wine quality assessment.
 
 **Discussion and Conclusion**
 
