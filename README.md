@@ -116,6 +116,7 @@ In the context of wine quality prediction:
       •	Logistic Regression remains valuable as a baseline model, while KNN provides insight into distance-based learning performance.
       
       •	Future work could explore:
+      
          -Ensemble methods (e.g., Gradient Boosting, XGBoost).
          
          -Feature selection or dimensionality reduction for improved efficiency.
