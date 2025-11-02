@@ -67,9 +67,12 @@ To evaluate and optimize the performance of supervised machine learning models f
    
 This implies that the Random Forest algorithm can effectively capture nonlinear relationships and feature interactions in the dataset.
 
-•	SVM (Support Vector Machine) came second overall:
-	It recorded slightly lower accuracy (0.9170) and F1-score (0.6415), but still strong performance.
-	The SVM is generally robust for small to medium-sized datasets and works well with scaled data, which supports this result.
+•	**SVM (Support Vector Machine)** came second overall:
+
+      -It recorded slightly lower accuracy (0.9170) and F1-score (0.6415), but still strong performance.
+      
+      -The SVM is generally robust for small to medium-sized datasets and works well with scaled data, which supports this result.
+      
 •	KNN (K-Nearest Neighbors) achieved moderate accuracy (0.8908) and F1-score (0.5763):
 	KNN performance depends on distance metrics and can degrade if data features are noisy.
 	Its performance is acceptable, but it is computationally heavier for larger datasets due to instance-based learning.
