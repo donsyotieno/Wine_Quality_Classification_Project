@@ -7,9 +7,11 @@ Wine quality assessment is a crucial process in the wine industry, influencing b
 There is a need to identify the most effective supervised machine learning model for predicting wine quality with high accuracy and reliability. Despite numerous algorithms available, their comparative performance and optimal tuning for this dataset remain unclear.
 
 **3. Objectives**
+
 **Main Objective:**
 
 To evaluate and optimize the performance of supervised machine learning models for wine quality classification.
+
 **Specific Objectives:**
 
 1.	To preprocess and explore the Wine Quality dataset.
