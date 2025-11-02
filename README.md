@@ -60,7 +60,9 @@ To evaluate and optimize the performance of supervised machine learning models f
 •	Random Forest Classifier achieved the highest performance across nearly all metrics:
 
    -Accuracy (0.9258) — the best among all models.
+   
    -F1-Score (0.7018) — indicates strong balance between precision and recall.
+   
    -ROC-AUC (0.9111) — reflects excellent ability to distinguish between high and low-quality wines.
    
 This implies that the Random Forest algorithm can effectively capture nonlinear relationships and feature interactions in the dataset.
