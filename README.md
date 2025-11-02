@@ -24,11 +24,11 @@ To evaluate and optimize the performance of supervised machine learning models f
    
 **Step 1: Data preprocessing**
 
-   •	Handle missing values (if any).
-   
-   •	Normalize or scale features.
-   
-   •	Encode the target variable (if categorical).
+      •	Handle missing values (if any).
+      
+      •	Normalize or scale features.
+      
+      •	Encode the target variable (if categorical).
 
 **Step 2: Model training**
 
@@ -64,7 +64,7 @@ To evaluate and optimize the performance of supervised machine learning models f
 
 **1. Overview of Model Performance**
 
-**From your evaluation table:**
+**From the evaluation table:**
 
 <img width="549" height="134" alt="image" src="https://github.com/user-attachments/assets/b2da359d-1a1b-47bf-af30-907775f909d8" />
 
