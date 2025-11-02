@@ -89,13 +89,13 @@ This implies that the Random Forest algorithm can effectively capture nonlinear 
 
 <img width="636" height="191" alt="image" src="https://github.com/user-attachments/assets/123299bb-4a1d-4798-a0eb-f97e0ee00d6e" />
 
-      •	**Random Forest** offers superior predictive power but is a “black box” — difficult to interpret feature importance beyond aggregate measures.
+      •	Random Forest offers superior predictive power but is a “black box” — difficult to interpret feature importance beyond aggregate measures.
       
-      •	**Logistic Regression**, though less accurate, is easier to explain — useful when interpretability and transparency are priorities (e.g., regulatory reporting).
+      •	Logistic Regression, though less accurate, is easier to explain — useful when interpretability and transparency are priorities (e.g., regulatory reporting).
       
-      •	**SVM** performs well but may require significant computational cost for large datasets.
+      •	SVM performs well but may require significant computational cost for large datasets.
       
-      •	**KNN** is simple but less effective for high-dimensional data.
+      •	KNN is simple but less effective for high-dimensional data.
 
 
 
