@@ -73,12 +73,17 @@ This implies that the Random Forest algorithm can effectively capture nonlinear 
       
       -The SVM is generally robust for small to medium-sized datasets and works well with scaled data, which supports this result.
       
-•	KNN (K-Nearest Neighbors) achieved moderate accuracy (0.8908) and F1-score (0.5763):
-	KNN performance depends on distance metrics and can degrade if data features are noisy.
-	Its performance is acceptable, but it is computationally heavier for larger datasets due to instance-based learning.
-•	Logistic Regression performed the weakest overall:
-	Although interpretable and simple, it assumes linear separability.
-	With F1-score (0.4348) and ROC-AUC (0.8395), it struggles to model complex, nonlinear relationships in wine attributes.
+•	**KNN (K-Nearest Neighbors)** achieved moderate accuracy (0.8908) and F1-score (0.5763):
+
+      -KNN performance depends on distance metrics and can degrade if data features are noisy.
+      
+      -Its performance is acceptable, but it is computationally heavier for larger datasets due to instance-based learning.
+      
+•	**Logistic Regression** performed the weakest overall:
+
+      -Although interpretable and simple, it assumes linear separability.
+      
+      -With F1-score (0.4348) and ROC-AUC (0.8395), it struggles to model complex, nonlinear relationships in wine attributes.
 
 
 
